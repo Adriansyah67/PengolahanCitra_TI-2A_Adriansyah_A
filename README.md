@@ -1,0 +1,1 @@
+# PengolahanCitra_TI-2A_Adriansyah_A
