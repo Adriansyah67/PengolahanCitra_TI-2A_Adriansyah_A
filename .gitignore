@@ -1,0 +1,18 @@
+# Folder Lingkungan Virtual
+# Mengabaikan semua file di dalam folder venv
+venv/
+
+# File yang Dihasilkan oleh Program
+# File CSV ini akan terus berubah setiap kali program dijalankan
+# attendance.csv
+
+# Cache dan file terkompilasi Python
+__pycache__/
+*.pyc
+
+# Folder spesifik IDE/Editor (Praktik yang baik)
+.vscode/
+.idea/
+
+# File environment (jika Anda menggunakannya untuk menyimpan kunci API, dll.)
+.env

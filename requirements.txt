@@ -1,0 +1,11 @@
+click @ file:///D:/bld/click_1747811308011/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1733218098505/work
+dlib @ file:///C:/bld/dlib-split_1748835518101/work
+face-recognition @ file:///home/conda/feedstock_root/build_artifacts/face-recognition_1664828884898/work
+face-recognition-models @ file:///home/conda/feedstock_root/build_artifacts/face_recognition_models_1595707436534/work
+mkl-service==2.4.0
+numpy @ file:///D:/bld/numpy_1751342131949/work/dist/numpy-2.3.1-cp311-cp311-win_amd64.whl#sha256=23a653cf7aa637548acde928d80104a173e7ce6d37b3b0472942a08b73b542d0
+opencv-python==4.11.0
+opencv-python-headless==4.11.0
+pillow @ file:///D:/bld/pillow_1746646228195/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1733380938961/work
